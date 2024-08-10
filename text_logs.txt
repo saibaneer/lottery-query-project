@@ -1,0 +1,247 @@
+(venv) gb3nga@Gbengas-MBP lotter-query-project-pyth % python3 lottery.py
+Added new winner from Nebraska
+Added new winner from California
+Added new winner from Massachusetts
+Added new winner from Missouri
+Added new winner from Tennessee
+Current Winners Table:
+{'_id': ObjectId('66b79aa2df1dc37785df4d0d'), 'state': 'Nebraska', 'email': 'deandre.koss@email.com', 'id': 9865}
+{'_id': ObjectId('66b79aa2df1dc37785df4d0f'), 'state': 'California', 'email': 'nelson.daugherty@email.com', 'id': 4399}
+{'_id': ObjectId('66b79aa2df1dc37785df4d11'), 'state': 'Massachusetts', 'email': 'suk.stracke@email.com', 'id': 2324}
+{'_id': ObjectId('66b79aa2df1dc37785df4d13'), 'state': 'Missouri', 'email': 'krystina.sanford@email.com', 'id': 1448}
+{'_id': ObjectId('66b79aa2df1dc37785df4d15'), 'state': 'Tennessee', 'email': 'elisha.lynch@email.com', 'id': 7320}
+Current Winners Table:
+{'_id': ObjectId('66b79aa2df1dc37785df4d0d'), 'state': 'Nebraska', 'email': 'deandre.koss@email.com', 'id': 9865}
+{'_id': ObjectId('66b79aa2df1dc37785df4d0f'), 'state': 'California', 'email': 'nelson.daugherty@email.com', 'id': 4399}
+{'_id': ObjectId('66b79aa2df1dc37785df4d11'), 'state': 'Massachusetts', 'email': 'suk.stracke@email.com', 'id': 2324}
+{'_id': ObjectId('66b79aa2df1dc37785df4d13'), 'state': 'Missouri', 'email': 'krystina.sanford@email.com', 'id': 1448}
+{'_id': ObjectId('66b79aa2df1dc37785df4d15'), 'state': 'Tennessee', 'email': 'elisha.lynch@email.com', 'id': 7320}
+Added new winner from Delaware
+Added new winner from North Carolina
+Added new winner from Connecticut
+Replaced winner from Connecticut
+Added new winner from Montana
+Current Winners Table:
+{'_id': ObjectId('66b79aa2df1dc37785df4d0d'), 'state': 'Nebraska', 'email': 'deandre.koss@email.com', 'id': 9865}
+{'_id': ObjectId('66b79aa2df1dc37785df4d0f'), 'state': 'California', 'email': 'nelson.daugherty@email.com', 'id': 4399}
+{'_id': ObjectId('66b79aa2df1dc37785df4d11'), 'state': 'Massachusetts', 'email': 'suk.stracke@email.com', 'id': 2324}
+{'_id': ObjectId('66b79aa2df1dc37785df4d13'), 'state': 'Missouri', 'email': 'krystina.sanford@email.com', 'id': 1448}
+{'_id': ObjectId('66b79aa2df1dc37785df4d15'), 'state': 'Tennessee', 'email': 'elisha.lynch@email.com', 'id': 7320}
+{'_id': ObjectId('66b79aacdf1dc37785df4d1c'), 'state': 'Delaware', 'email': 'ingrid.hansen@email.com', 'id': 3602}
+{'_id': ObjectId('66b79aacdf1dc37785df4d1e'), 'state': 'North Carolina', 'email': 'sam.schroeder@email.com', 'id': 7328}
+{'_id': ObjectId('66b79aacdf1dc37785df4d20'), 'state': 'Connecticut', 'email': 'larry.dubuque@email.com', 'id': 8631}
+{'_id': ObjectId('66b79aacdf1dc37785df4d23'), 'state': 'Montana', 'email': 'kathy.gutmann@email.com', 'id': 2197}
+Current Winners Table:
+{'_id': ObjectId('66b79aa2df1dc37785df4d0d'), 'state': 'Nebraska', 'email': 'deandre.koss@email.com', 'id': 9865}
+{'_id': ObjectId('66b79aa2df1dc37785df4d0f'), 'state': 'California', 'email': 'nelson.daugherty@email.com', 'id': 4399}
+{'_id': ObjectId('66b79aa2df1dc37785df4d11'), 'state': 'Massachusetts', 'email': 'suk.stracke@email.com', 'id': 2324}
+{'_id': ObjectId('66b79aa2df1dc37785df4d13'), 'state': 'Missouri', 'email': 'krystina.sanford@email.com', 'id': 1448}
+{'_id': ObjectId('66b79aa2df1dc37785df4d15'), 'state': 'Tennessee', 'email': 'elisha.lynch@email.com', 'id': 7320}
+{'_id': ObjectId('66b79aacdf1dc37785df4d1c'), 'state': 'Delaware', 'email': 'ingrid.hansen@email.com', 'id': 3602}
+{'_id': ObjectId('66b79aacdf1dc37785df4d1e'), 'state': 'North Carolina', 'email': 'sam.schroeder@email.com', 'id': 7328}
+{'_id': ObjectId('66b79aacdf1dc37785df4d20'), 'state': 'Connecticut', 'email': 'larry.dubuque@email.com', 'id': 8631}
+{'_id': ObjectId('66b79aacdf1dc37785df4d23'), 'state': 'Montana', 'email': 'kathy.gutmann@email.com', 'id': 2197}
+Replaced winner from Montana
+Added new winner from Utah
+Added new winner from Alaska
+Added new winner from Louisiana
+Added new winner from Mississippi
+Current Winners Table:
+{'_id': ObjectId('66b79aa2df1dc37785df4d0d'), 'state': 'Nebraska', 'email': 'deandre.koss@email.com', 'id': 9865}
+{'_id': ObjectId('66b79aa2df1dc37785df4d0f'), 'state': 'California', 'email': 'nelson.daugherty@email.com', 'id': 4399}
+{'_id': ObjectId('66b79aa2df1dc37785df4d11'), 'state': 'Massachusetts', 'email': 'suk.stracke@email.com', 'id': 2324}
+{'_id': ObjectId('66b79aa2df1dc37785df4d13'), 'state': 'Missouri', 'email': 'krystina.sanford@email.com', 'id': 1448}
+{'_id': ObjectId('66b79aa2df1dc37785df4d15'), 'state': 'Tennessee', 'email': 'elisha.lynch@email.com', 'id': 7320}
+{'_id': ObjectId('66b79aacdf1dc37785df4d1c'), 'state': 'Delaware', 'email': 'ingrid.hansen@email.com', 'id': 3602}
+{'_id': ObjectId('66b79aacdf1dc37785df4d1e'), 'state': 'North Carolina', 'email': 'sam.schroeder@email.com', 'id': 7328}
+{'_id': ObjectId('66b79aacdf1dc37785df4d20'), 'state': 'Connecticut', 'email': 'larry.dubuque@email.com', 'id': 8631}
+{'_id': ObjectId('66b79aacdf1dc37785df4d23'), 'state': 'Montana', 'email': 'ashely.treutel@email.com', 'id': 1757}
+{'_id': ObjectId('66b79ab6df1dc37785df4d2b'), 'state': 'Utah', 'email': 'dale.prohaska@email.com', 'id': 9891}
+{'_id': ObjectId('66b79ab6df1dc37785df4d2d'), 'state': 'Alaska', 'email': 'sol.schmitt@email.com', 'id': 5557}
+{'_id': ObjectId('66b79ab6df1dc37785df4d2f'), 'state': 'Louisiana', 'email': 'antony.reynolds@email.com', 'id': 1448}
+{'_id': ObjectId('66b79ab6df1dc37785df4d31'), 'state': 'Mississippi', 'email': 'anton.gutmann@email.com', 'id': 7243}
+Current Winners Table:
+{'_id': ObjectId('66b79aa2df1dc37785df4d0d'), 'state': 'Nebraska', 'email': 'deandre.koss@email.com', 'id': 9865}
+{'_id': ObjectId('66b79aa2df1dc37785df4d0f'), 'state': 'California', 'email': 'nelson.daugherty@email.com', 'id': 4399}
+{'_id': ObjectId('66b79aa2df1dc37785df4d11'), 'state': 'Massachusetts', 'email': 'suk.stracke@email.com', 'id': 2324}
+{'_id': ObjectId('66b79aa2df1dc37785df4d13'), 'state': 'Missouri', 'email': 'krystina.sanford@email.com', 'id': 1448}
+{'_id': ObjectId('66b79aa2df1dc37785df4d15'), 'state': 'Tennessee', 'email': 'elisha.lynch@email.com', 'id': 7320}
+{'_id': ObjectId('66b79aacdf1dc37785df4d1c'), 'state': 'Delaware', 'email': 'ingrid.hansen@email.com', 'id': 3602}
+{'_id': ObjectId('66b79aacdf1dc37785df4d1e'), 'state': 'North Carolina', 'email': 'sam.schroeder@email.com', 'id': 7328}
+{'_id': ObjectId('66b79aacdf1dc37785df4d20'), 'state': 'Connecticut', 'email': 'larry.dubuque@email.com', 'id': 8631}
+{'_id': ObjectId('66b79aacdf1dc37785df4d23'), 'state': 'Montana', 'email': 'ashely.treutel@email.com', 'id': 1757}
+{'_id': ObjectId('66b79ab6df1dc37785df4d2b'), 'state': 'Utah', 'email': 'dale.prohaska@email.com', 'id': 9891}
+{'_id': ObjectId('66b79ab6df1dc37785df4d2d'), 'state': 'Alaska', 'email': 'sol.schmitt@email.com', 'id': 5557}
+{'_id': ObjectId('66b79ab6df1dc37785df4d2f'), 'state': 'Louisiana', 'email': 'antony.reynolds@email.com', 'id': 1448}
+{'_id': ObjectId('66b79ab6df1dc37785df4d31'), 'state': 'Mississippi', 'email': 'anton.gutmann@email.com', 'id': 7243}
+Added new winner from Nevada
+Replaced winner from Missouri
+Added new winner from North Dakota
+Replaced winner from Mississippi
+Added new winner from Texas
+Current Winners Table:
+{'_id': ObjectId('66b79aa2df1dc37785df4d0d'), 'state': 'Nebraska', 'email': 'deandre.koss@email.com', 'id': 9865}
+{'_id': ObjectId('66b79aa2df1dc37785df4d0f'), 'state': 'California', 'email': 'nelson.daugherty@email.com', 'id': 4399}
+{'_id': ObjectId('66b79aa2df1dc37785df4d11'), 'state': 'Massachusetts', 'email': 'suk.stracke@email.com', 'id': 2324}
+{'_id': ObjectId('66b79aa2df1dc37785df4d13'), 'state': 'Missouri', 'email': 'barbara.ondricka@email.com', 'id': 8184}
+{'_id': ObjectId('66b79aa2df1dc37785df4d15'), 'state': 'Tennessee', 'email': 'elisha.lynch@email.com', 'id': 7320}
+{'_id': ObjectId('66b79aacdf1dc37785df4d1c'), 'state': 'Delaware', 'email': 'ingrid.hansen@email.com', 'id': 3602}
+{'_id': ObjectId('66b79aacdf1dc37785df4d1e'), 'state': 'North Carolina', 'email': 'sam.schroeder@email.com', 'id': 7328}
+{'_id': ObjectId('66b79aacdf1dc37785df4d20'), 'state': 'Connecticut', 'email': 'larry.dubuque@email.com', 'id': 8631}
+{'_id': ObjectId('66b79aacdf1dc37785df4d23'), 'state': 'Montana', 'email': 'ashely.treutel@email.com', 'id': 1757}
+{'_id': ObjectId('66b79ab6df1dc37785df4d2b'), 'state': 'Utah', 'email': 'dale.prohaska@email.com', 'id': 9891}
+{'_id': ObjectId('66b79ab6df1dc37785df4d2d'), 'state': 'Alaska', 'email': 'sol.schmitt@email.com', 'id': 5557}
+{'_id': ObjectId('66b79ab6df1dc37785df4d2f'), 'state': 'Louisiana', 'email': 'antony.reynolds@email.com', 'id': 1448}
+{'_id': ObjectId('66b79ab6df1dc37785df4d31'), 'state': 'Mississippi', 'email': 'bertie.pfannerstill@email.com', 'id': 9891}
+{'_id': ObjectId('66b79ac1df1dc37785df4d38'), 'state': 'Nevada', 'email': 'alvera.dooley@email.com', 'id': 3000}
+{'_id': ObjectId('66b79ac1df1dc37785df4d3b'), 'state': 'North Dakota', 'email': 'fermin.little@email.com', 'id': 5113}
+{'_id': ObjectId('66b79ac1df1dc37785df4d3e'), 'state': 'Texas', 'email': 'stella.morar@email.com', 'id': 3408}
+Current Winners Table:
+{'_id': ObjectId('66b79aa2df1dc37785df4d0d'), 'state': 'Nebraska', 'email': 'deandre.koss@email.com', 'id': 9865}
+{'_id': ObjectId('66b79aa2df1dc37785df4d0f'), 'state': 'California', 'email': 'nelson.daugherty@email.com', 'id': 4399}
+{'_id': ObjectId('66b79aa2df1dc37785df4d11'), 'state': 'Massachusetts', 'email': 'suk.stracke@email.com', 'id': 2324}
+{'_id': ObjectId('66b79aa2df1dc37785df4d13'), 'state': 'Missouri', 'email': 'barbara.ondricka@email.com', 'id': 8184}
+{'_id': ObjectId('66b79aa2df1dc37785df4d15'), 'state': 'Tennessee', 'email': 'elisha.lynch@email.com', 'id': 7320}
+{'_id': ObjectId('66b79aacdf1dc37785df4d1c'), 'state': 'Delaware', 'email': 'ingrid.hansen@email.com', 'id': 3602}
+{'_id': ObjectId('66b79aacdf1dc37785df4d1e'), 'state': 'North Carolina', 'email': 'sam.schroeder@email.com', 'id': 7328}
+{'_id': ObjectId('66b79aacdf1dc37785df4d20'), 'state': 'Connecticut', 'email': 'larry.dubuque@email.com', 'id': 8631}
+{'_id': ObjectId('66b79aacdf1dc37785df4d23'), 'state': 'Montana', 'email': 'ashely.treutel@email.com', 'id': 1757}
+{'_id': ObjectId('66b79ab6df1dc37785df4d2b'), 'state': 'Utah', 'email': 'dale.prohaska@email.com', 'id': 9891}
+{'_id': ObjectId('66b79ab6df1dc37785df4d2d'), 'state': 'Alaska', 'email': 'sol.schmitt@email.com', 'id': 5557}
+{'_id': ObjectId('66b79ab6df1dc37785df4d2f'), 'state': 'Louisiana', 'email': 'antony.reynolds@email.com', 'id': 1448}
+{'_id': ObjectId('66b79ab6df1dc37785df4d31'), 'state': 'Mississippi', 'email': 'bertie.pfannerstill@email.com', 'id': 9891}
+{'_id': ObjectId('66b79ac1df1dc37785df4d38'), 'state': 'Nevada', 'email': 'alvera.dooley@email.com', 'id': 3000}
+{'_id': ObjectId('66b79ac1df1dc37785df4d3b'), 'state': 'North Dakota', 'email': 'fermin.little@email.com', 'id': 5113}
+{'_id': ObjectId('66b79ac1df1dc37785df4d3e'), 'state': 'Texas', 'email': 'stella.morar@email.com', 'id': 3408}
+Added new winner from Florida
+Added new winner from Virginia
+Replaced winner from California
+Added new winner from Minnesota
+Added new winner from New York
+Current Winners Table:
+{'_id': ObjectId('66b79aa2df1dc37785df4d0d'), 'state': 'Nebraska', 'email': 'deandre.koss@email.com', 'id': 9865}
+{'_id': ObjectId('66b79aa2df1dc37785df4d0f'), 'state': 'California', 'email': 'rana.shields@email.com', 'id': 5715}
+{'_id': ObjectId('66b79aa2df1dc37785df4d11'), 'state': 'Massachusetts', 'email': 'suk.stracke@email.com', 'id': 2324}
+{'_id': ObjectId('66b79aa2df1dc37785df4d13'), 'state': 'Missouri', 'email': 'barbara.ondricka@email.com', 'id': 8184}
+{'_id': ObjectId('66b79aa2df1dc37785df4d15'), 'state': 'Tennessee', 'email': 'elisha.lynch@email.com', 'id': 7320}
+{'_id': ObjectId('66b79aacdf1dc37785df4d1c'), 'state': 'Delaware', 'email': 'ingrid.hansen@email.com', 'id': 3602}
+{'_id': ObjectId('66b79aacdf1dc37785df4d1e'), 'state': 'North Carolina', 'email': 'sam.schroeder@email.com', 'id': 7328}
+{'_id': ObjectId('66b79aacdf1dc37785df4d20'), 'state': 'Connecticut', 'email': 'larry.dubuque@email.com', 'id': 8631}
+{'_id': ObjectId('66b79aacdf1dc37785df4d23'), 'state': 'Montana', 'email': 'ashely.treutel@email.com', 'id': 1757}
+{'_id': ObjectId('66b79ab6df1dc37785df4d2b'), 'state': 'Utah', 'email': 'dale.prohaska@email.com', 'id': 9891}
+{'_id': ObjectId('66b79ab6df1dc37785df4d2d'), 'state': 'Alaska', 'email': 'sol.schmitt@email.com', 'id': 5557}
+{'_id': ObjectId('66b79ab6df1dc37785df4d2f'), 'state': 'Louisiana', 'email': 'antony.reynolds@email.com', 'id': 1448}
+{'_id': ObjectId('66b79ab6df1dc37785df4d31'), 'state': 'Mississippi', 'email': 'bertie.pfannerstill@email.com', 'id': 9891}
+{'_id': ObjectId('66b79ac1df1dc37785df4d38'), 'state': 'Nevada', 'email': 'alvera.dooley@email.com', 'id': 3000}
+{'_id': ObjectId('66b79ac1df1dc37785df4d3b'), 'state': 'North Dakota', 'email': 'fermin.little@email.com', 'id': 5113}
+{'_id': ObjectId('66b79ac1df1dc37785df4d3e'), 'state': 'Texas', 'email': 'stella.morar@email.com', 'id': 3408}
+{'_id': ObjectId('66b79acbdf1dc37785df4d45'), 'state': 'Florida', 'email': 'sharen.grady@email.com', 'id': 6715}
+{'_id': ObjectId('66b79acbdf1dc37785df4d47'), 'state': 'Virginia', 'email': 'benjamin.welch@email.com', 'id': 7137}
+{'_id': ObjectId('66b79acbdf1dc37785df4d4a'), 'state': 'Minnesota', 'email': 'anthony.parker@email.com', 'id': 3639}
+{'_id': ObjectId('66b79acbdf1dc37785df4d4c'), 'state': 'New York', 'email': 'nancy.ward@email.com', 'id': 1066}
+Current Winners Table:
+{'_id': ObjectId('66b79aa2df1dc37785df4d0d'), 'state': 'Nebraska', 'email': 'deandre.koss@email.com', 'id': 9865}
+{'_id': ObjectId('66b79aa2df1dc37785df4d0f'), 'state': 'California', 'email': 'rana.shields@email.com', 'id': 5715}
+{'_id': ObjectId('66b79aa2df1dc37785df4d11'), 'state': 'Massachusetts', 'email': 'suk.stracke@email.com', 'id': 2324}
+{'_id': ObjectId('66b79aa2df1dc37785df4d13'), 'state': 'Missouri', 'email': 'barbara.ondricka@email.com', 'id': 8184}
+{'_id': ObjectId('66b79aa2df1dc37785df4d15'), 'state': 'Tennessee', 'email': 'elisha.lynch@email.com', 'id': 7320}
+{'_id': ObjectId('66b79aacdf1dc37785df4d1c'), 'state': 'Delaware', 'email': 'ingrid.hansen@email.com', 'id': 3602}
+{'_id': ObjectId('66b79aacdf1dc37785df4d1e'), 'state': 'North Carolina', 'email': 'sam.schroeder@email.com', 'id': 7328}
+{'_id': ObjectId('66b79aacdf1dc37785df4d20'), 'state': 'Connecticut', 'email': 'larry.dubuque@email.com', 'id': 8631}
+{'_id': ObjectId('66b79aacdf1dc37785df4d23'), 'state': 'Montana', 'email': 'ashely.treutel@email.com', 'id': 1757}
+{'_id': ObjectId('66b79ab6df1dc37785df4d2b'), 'state': 'Utah', 'email': 'dale.prohaska@email.com', 'id': 9891}
+{'_id': ObjectId('66b79ab6df1dc37785df4d2d'), 'state': 'Alaska', 'email': 'sol.schmitt@email.com', 'id': 5557}
+{'_id': ObjectId('66b79ab6df1dc37785df4d2f'), 'state': 'Louisiana', 'email': 'antony.reynolds@email.com', 'id': 1448}
+{'_id': ObjectId('66b79ab6df1dc37785df4d31'), 'state': 'Mississippi', 'email': 'bertie.pfannerstill@email.com', 'id': 9891}
+{'_id': ObjectId('66b79ac1df1dc37785df4d38'), 'state': 'Nevada', 'email': 'alvera.dooley@email.com', 'id': 3000}
+{'_id': ObjectId('66b79ac1df1dc37785df4d3b'), 'state': 'North Dakota', 'email': 'fermin.little@email.com', 'id': 5113}
+{'_id': ObjectId('66b79ac1df1dc37785df4d3e'), 'state': 'Texas', 'email': 'stella.morar@email.com', 'id': 3408}
+{'_id': ObjectId('66b79acbdf1dc37785df4d45'), 'state': 'Florida', 'email': 'sharen.grady@email.com', 'id': 6715}
+{'_id': ObjectId('66b79acbdf1dc37785df4d47'), 'state': 'Virginia', 'email': 'benjamin.welch@email.com', 'id': 7137}
+{'_id': ObjectId('66b79acbdf1dc37785df4d4a'), 'state': 'Minnesota', 'email': 'anthony.parker@email.com', 'id': 3639}
+{'_id': ObjectId('66b79acbdf1dc37785df4d4c'), 'state': 'New York', 'email': 'nancy.ward@email.com', 'id': 1066}
+Added new winner from Pennsylvania
+Replaced winner from Nevada
+Added new winner from Washington
+Replaced winner from North Dakota
+Added new winner from South Carolina
+Current Winners Table:
+{'_id': ObjectId('66b79aa2df1dc37785df4d0d'), 'state': 'Nebraska', 'email': 'deandre.koss@email.com', 'id': 9865}
+{'_id': ObjectId('66b79aa2df1dc37785df4d0f'), 'state': 'California', 'email': 'rana.shields@email.com', 'id': 5715}
+{'_id': ObjectId('66b79aa2df1dc37785df4d11'), 'state': 'Massachusetts', 'email': 'suk.stracke@email.com', 'id': 2324}
+{'_id': ObjectId('66b79aa2df1dc37785df4d13'), 'state': 'Missouri', 'email': 'barbara.ondricka@email.com', 'id': 8184}
+{'_id': ObjectId('66b79aa2df1dc37785df4d15'), 'state': 'Tennessee', 'email': 'elisha.lynch@email.com', 'id': 7320}
+{'_id': ObjectId('66b79aacdf1dc37785df4d1c'), 'state': 'Delaware', 'email': 'ingrid.hansen@email.com', 'id': 3602}
+{'_id': ObjectId('66b79aacdf1dc37785df4d1e'), 'state': 'North Carolina', 'email': 'sam.schroeder@email.com', 'id': 7328}
+{'_id': ObjectId('66b79aacdf1dc37785df4d20'), 'state': 'Connecticut', 'email': 'larry.dubuque@email.com', 'id': 8631}
+{'_id': ObjectId('66b79aacdf1dc37785df4d23'), 'state': 'Montana', 'email': 'ashely.treutel@email.com', 'id': 1757}
+{'_id': ObjectId('66b79ab6df1dc37785df4d2b'), 'state': 'Utah', 'email': 'dale.prohaska@email.com', 'id': 9891}
+{'_id': ObjectId('66b79ab6df1dc37785df4d2d'), 'state': 'Alaska', 'email': 'sol.schmitt@email.com', 'id': 5557}
+{'_id': ObjectId('66b79ab6df1dc37785df4d2f'), 'state': 'Louisiana', 'email': 'antony.reynolds@email.com', 'id': 1448}
+{'_id': ObjectId('66b79ab6df1dc37785df4d31'), 'state': 'Mississippi', 'email': 'bertie.pfannerstill@email.com', 'id': 9891}
+{'_id': ObjectId('66b79ac1df1dc37785df4d38'), 'state': 'Nevada', 'email': 'thelma.huel@email.com', 'id': 6039}
+{'_id': ObjectId('66b79ac1df1dc37785df4d3b'), 'state': 'North Dakota', 'email': 'charisse.grimes@email.com', 'id': 3515}
+{'_id': ObjectId('66b79ac1df1dc37785df4d3e'), 'state': 'Texas', 'email': 'stella.morar@email.com', 'id': 3408}
+{'_id': ObjectId('66b79acbdf1dc37785df4d45'), 'state': 'Florida', 'email': 'sharen.grady@email.com', 'id': 6715}
+{'_id': ObjectId('66b79acbdf1dc37785df4d47'), 'state': 'Virginia', 'email': 'benjamin.welch@email.com', 'id': 7137}
+{'_id': ObjectId('66b79acbdf1dc37785df4d4a'), 'state': 'Minnesota', 'email': 'anthony.parker@email.com', 'id': 3639}
+{'_id': ObjectId('66b79acbdf1dc37785df4d4c'), 'state': 'New York', 'email': 'nancy.ward@email.com', 'id': 1066}
+{'_id': ObjectId('66b79ad6df1dc37785df4d53'), 'state': 'Pennsylvania', 'email': 'lonnie.schroeder@email.com', 'id': 7689}
+{'_id': ObjectId('66b79ad6df1dc37785df4d56'), 'state': 'Washington', 'email': 'alvaro.wiza@email.com', 'id': 6154}
+{'_id': ObjectId('66b79ad6df1dc37785df4d59'), 'state': 'South Carolina', 'email': 'solomon.stracke@email.com', 'id': 153}
+Current Winners Table:
+{'_id': ObjectId('66b79aa2df1dc37785df4d0d'), 'state': 'Nebraska', 'email': 'deandre.koss@email.com', 'id': 9865}
+{'_id': ObjectId('66b79aa2df1dc37785df4d0f'), 'state': 'California', 'email': 'rana.shields@email.com', 'id': 5715}
+{'_id': ObjectId('66b79aa2df1dc37785df4d11'), 'state': 'Massachusetts', 'email': 'suk.stracke@email.com', 'id': 2324}
+{'_id': ObjectId('66b79aa2df1dc37785df4d13'), 'state': 'Missouri', 'email': 'barbara.ondricka@email.com', 'id': 8184}
+{'_id': ObjectId('66b79aa2df1dc37785df4d15'), 'state': 'Tennessee', 'email': 'elisha.lynch@email.com', 'id': 7320}
+{'_id': ObjectId('66b79aacdf1dc37785df4d1c'), 'state': 'Delaware', 'email': 'ingrid.hansen@email.com', 'id': 3602}
+{'_id': ObjectId('66b79aacdf1dc37785df4d1e'), 'state': 'North Carolina', 'email': 'sam.schroeder@email.com', 'id': 7328}
+{'_id': ObjectId('66b79aacdf1dc37785df4d20'), 'state': 'Connecticut', 'email': 'larry.dubuque@email.com', 'id': 8631}
+{'_id': ObjectId('66b79aacdf1dc37785df4d23'), 'state': 'Montana', 'email': 'ashely.treutel@email.com', 'id': 1757}
+{'_id': ObjectId('66b79ab6df1dc37785df4d2b'), 'state': 'Utah', 'email': 'dale.prohaska@email.com', 'id': 9891}
+{'_id': ObjectId('66b79ab6df1dc37785df4d2d'), 'state': 'Alaska', 'email': 'sol.schmitt@email.com', 'id': 5557}
+{'_id': ObjectId('66b79ab6df1dc37785df4d2f'), 'state': 'Louisiana', 'email': 'antony.reynolds@email.com', 'id': 1448}
+{'_id': ObjectId('66b79ab6df1dc37785df4d31'), 'state': 'Mississippi', 'email': 'bertie.pfannerstill@email.com', 'id': 9891}
+{'_id': ObjectId('66b79ac1df1dc37785df4d38'), 'state': 'Nevada', 'email': 'thelma.huel@email.com', 'id': 6039}
+{'_id': ObjectId('66b79ac1df1dc37785df4d3b'), 'state': 'North Dakota', 'email': 'charisse.grimes@email.com', 'id': 3515}
+{'_id': ObjectId('66b79ac1df1dc37785df4d3e'), 'state': 'Texas', 'email': 'stella.morar@email.com', 'id': 3408}
+{'_id': ObjectId('66b79acbdf1dc37785df4d45'), 'state': 'Florida', 'email': 'sharen.grady@email.com', 'id': 6715}
+{'_id': ObjectId('66b79acbdf1dc37785df4d47'), 'state': 'Virginia', 'email': 'benjamin.welch@email.com', 'id': 7137}
+{'_id': ObjectId('66b79acbdf1dc37785df4d4a'), 'state': 'Minnesota', 'email': 'anthony.parker@email.com', 'id': 3639}
+{'_id': ObjectId('66b79acbdf1dc37785df4d4c'), 'state': 'New York', 'email': 'nancy.ward@email.com', 'id': 1066}
+{'_id': ObjectId('66b79ad6df1dc37785df4d53'), 'state': 'Pennsylvania', 'email': 'lonnie.schroeder@email.com', 'id': 7689}
+{'_id': ObjectId('66b79ad6df1dc37785df4d56'), 'state': 'Washington', 'email': 'alvaro.wiza@email.com', 'id': 6154}
+{'_id': ObjectId('66b79ad6df1dc37785df4d59'), 'state': 'South Carolina', 'email': 'solomon.stracke@email.com', 'id': 153}
+Added new winner from Wyoming
+Replaced winner from Alaska
+Added new winner from New Mexico
+Replaced winner from Louisiana
+Replaced winner from South Carolina
+Current Winners Table:
+{'_id': ObjectId('66b79aa2df1dc37785df4d0d'), 'state': 'Nebraska', 'email': 'deandre.koss@email.com', 'id': 9865}
+{'_id': ObjectId('66b79aa2df1dc37785df4d0f'), 'state': 'California', 'email': 'rana.shields@email.com', 'id': 5715}
+{'_id': ObjectId('66b79aa2df1dc37785df4d11'), 'state': 'Massachusetts', 'email': 'suk.stracke@email.com', 'id': 2324}
+{'_id': ObjectId('66b79aa2df1dc37785df4d13'), 'state': 'Missouri', 'email': 'barbara.ondricka@email.com', 'id': 8184}
+{'_id': ObjectId('66b79aa2df1dc37785df4d15'), 'state': 'Tennessee', 'email': 'elisha.lynch@email.com', 'id': 7320}
+{'_id': ObjectId('66b79aacdf1dc37785df4d1c'), 'state': 'Delaware', 'email': 'ingrid.hansen@email.com', 'id': 3602}
+{'_id': ObjectId('66b79aacdf1dc37785df4d1e'), 'state': 'North Carolina', 'email': 'sam.schroeder@email.com', 'id': 7328}
+{'_id': ObjectId('66b79aacdf1dc37785df4d20'), 'state': 'Connecticut', 'email': 'larry.dubuque@email.com', 'id': 8631}
+{'_id': ObjectId('66b79aacdf1dc37785df4d23'), 'state': 'Montana', 'email': 'ashely.treutel@email.com', 'id': 1757}
+{'_id': ObjectId('66b79ab6df1dc37785df4d2b'), 'state': 'Utah', 'email': 'dale.prohaska@email.com', 'id': 9891}
+{'_id': ObjectId('66b79ab6df1dc37785df4d2d'), 'state': 'Alaska', 'email': 'ian.gulgowski@email.com', 'id': 3513}
+{'_id': ObjectId('66b79ab6df1dc37785df4d2f'), 'state': 'Louisiana', 'email': 'cira.pouros@email.com', 'id': 257}
+{'_id': ObjectId('66b79ab6df1dc37785df4d31'), 'state': 'Mississippi', 'email': 'bertie.pfannerstill@email.com', 'id': 9891}
+{'_id': ObjectId('66b79ac1df1dc37785df4d38'), 'state': 'Nevada', 'email': 'thelma.huel@email.com', 'id': 6039}
+{'_id': ObjectId('66b79ac1df1dc37785df4d3b'), 'state': 'North Dakota', 'email': 'charisse.grimes@email.com', 'id': 3515}
+{'_id': ObjectId('66b79ac1df1dc37785df4d3e'), 'state': 'Texas', 'email': 'stella.morar@email.com', 'id': 3408}
+{'_id': ObjectId('66b79acbdf1dc37785df4d45'), 'state': 'Florida', 'email': 'sharen.grady@email.com', 'id': 6715}
+{'_id': ObjectId('66b79acbdf1dc37785df4d47'), 'state': 'Virginia', 'email': 'benjamin.welch@email.com', 'id': 7137}
+{'_id': ObjectId('66b79acbdf1dc37785df4d4a'), 'state': 'Minnesota', 'email': 'anthony.parker@email.com', 'id': 3639}
+{'_id': ObjectId('66b79acbdf1dc37785df4d4c'), 'state': 'New York', 'email': 'nancy.ward@email.com', 'id': 1066}
+{'_id': ObjectId('66b79ad6df1dc37785df4d53'), 'state': 'Pennsylvania', 'email': 'lonnie.schroeder@email.com', 'id': 7689}
+{'_id': ObjectId('66b79ad6df1dc37785df4d56'), 'state': 'Washington', 'email': 'alvaro.wiza@email.com', 'id': 6154}
+{'_id': ObjectId('66b79ad6df1dc37785df4d59'), 'state': 'South Carolina', 'email': 'jerome.dubuque@email.com', 'id': 2897}
+{'_id': ObjectId('66b79ae0df1dc37785df4d60'), 'state': 'Wyoming', 'email': 'phebe.bahringer@email.com', 'id': 1583}
+{'_id': ObjectId('66b79ae0df1dc37785df4d63'), 'state': 'New Mexico', 'email': 'marquitta.spinka@email.com', 'id': 1818}
+All 25 winners found!
