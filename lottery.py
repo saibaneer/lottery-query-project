@@ -11,6 +11,9 @@ try:
     db = client['lottery_db']
     collection = db['winners']
 
+    collection.drop()
+
+
     # Ensure unique index on the 'state' field to have distinct winners per state
     collection.create_index("state", unique=True)
 
@@ -66,7 +69,7 @@ def main():
 
         count = collection.count_documents({})
         if count >= 25:
-            print("All 25 winners found!")
+            print(f"All {count} winners found!")
             break
         time.sleep(10)
         log_winners()
